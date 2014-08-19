@@ -12,8 +12,8 @@ Make sure node in installed. If it isn't, click [this](http://nodejs.org/)
 Install grunt and bower globally:
 
 ```
-$ npm install -g grunt-cli
-$ npm install -g bower
+$ sudo npm install -g grunt-cli
+$ sudo npm install -g bower
 ```
 
 ### To Run

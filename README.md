@@ -3,7 +3,7 @@ expressBoilerplate
 
 Boilerplate code for express projects
 
-## Installation
+### Installation
 
 Make sure node in installed. If it isn't, click [this](http://nodejs.org/)
 
@@ -14,7 +14,7 @@ $ npm install -g grunt-cli
 $ npm install -g bower
 ```
 
-## To Run
+### To Run
 
 Download or clone the repo and run the following from terminal from the downloaded repo
 

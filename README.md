@@ -1,7 +1,9 @@
 expressBoilerplate
 ==================
 
-Boilerplate code for express projects
+Boilerplate code for Express 4.0 projects.
+
+Uses [Grunt](http://gruntjs.com/) for live-reloading and [Bower](http://bower.io/) to manage client-side javascript files
 
 ### Installation
 
@@ -20,6 +22,5 @@ Download or clone the repo and run the following from terminal from the download
 
 ```
 $ npm install
-$ bower install
 $ grunt
 ```
